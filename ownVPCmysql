@@ -1,0 +1,7 @@
+create vpc,subnet,routing table,igw
+go to rds create db subnet go for creating db enter
+
+in subnet in bound/outbound  mysql 3306 -> 0.0.0.0
+
+in route table attach IGW 
+and done
