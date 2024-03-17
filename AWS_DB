@@ -1,1 +1,6 @@
 create AWS DB
+points to remember
+in security group allow inbound and outbound rules
+mysql/tcp 3306 -> 0.0.0.0
+
+if connect within 2-3 sec
